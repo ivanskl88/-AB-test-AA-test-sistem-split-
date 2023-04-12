@@ -2,4 +2,4 @@ Project name        |	  AA-test: проверка работы системы с
 :---                |---        |
 **Description**     |   у нас есть данные АА-теста с '2022-01-24' по '2023-01-30'. Нужно сделать симуляцию, как будто мы провели 10000 АА-тестов. На каждой итерации нужно сформировать подвыборки без повторения в 500 юзеров из 2 и 3 экспериментальной группы. Провести сравнение этих подвыборок t-testом        |
 **Target**          | написать вывод по проведенному АА-тесту, корректно ли работает наша система сплитования          |
-**Stack**           |  :heavy_check_mark: **Python** `pandas` `matplotlib` `seaborn` `numpy` `pandahouse ` `scipy`         |
+**Stack**           |  :heavy_check_mark: **Python** `pandas` `matplotlib` `seaborn` `numpy` `pandahouse ` `scipy` </br> :heavy_check_mark: **ClickHouse**         |
